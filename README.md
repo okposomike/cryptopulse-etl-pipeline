@@ -173,7 +173,9 @@ The Power BI dashboard provides:
 * Volume Trends
 * Coin-Level Performance Tracking
 
-Add dashboard screenshots below:
+
+
+
 
 
 ![executive](screenshots/dashboard.png/executive.png)
