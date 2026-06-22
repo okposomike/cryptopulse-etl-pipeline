@@ -54,10 +54,11 @@ CoinGecko API → Apache Airflow → Bronze Layer → Silver Layer → PostgreSQ
 
 ## Architecture Diagram
 
-Add your architecture diagram here after exporting it from Draw.io.
+
 
 ```markdown
-![Architecture](screenshots/architecture.png)
+![Cryptopulse_Architecture](screenshots/CryptoPulse_Architecture.png)
+
 ```
 
 ---
@@ -175,7 +176,7 @@ The Power BI dashboard provides:
 Add dashboard screenshots below:
 
 ```markdown
-![Dashboard](screenshots/dashboard.png)
+![dashboard](screenshots/dashboard.png)
 ```
 
 ---
