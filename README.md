@@ -56,10 +56,10 @@ CoinGecko API → Apache Airflow → Bronze Layer → Silver Layer → PostgreSQ
 
 
 
-```markdown
+
 ![Cryptopulse_Architecture](screenshots/CryptoPulse_Architecture.png)
 
-```
+
 
 ---
 
@@ -175,9 +175,12 @@ The Power BI dashboard provides:
 
 Add dashboard screenshots below:
 
-```markdown
-![dashboard](screenshots/dashboard.png)
-```
+
+![executive](screenshots/dashboard.png/executive.png)
+
+![coin_analysis](screenshots/dashboard.png/coin_analysis.png)
+
+![history_trend](screenshots/dashboard.png/history_trend.png)
 
 ---
 
@@ -255,4 +258,3 @@ Michael Okposo
 
 LinkedIn: http://linkedin.com/in/okposo-michael-b0b99224a
 
-GitHub: Add your GitHub profile
