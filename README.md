@@ -153,20 +153,22 @@ The load layer inserts transformed records into PostgreSQL using an append strat
 
 The Power BI dashboard provides:
 
-### Executive Overview
+### Executive Summary
 
 * Total Market Capitalization
 * Total Trading Volume
 * Number of Cryptocurrencies
 * Average Daily Price Change
-
-### Market Analysis
-
 * Top Cryptocurrencies by Market Capitalization
+
+### Coin Analysis
+* Average Trading Price
+* Highest Trading Price
+* Lowest Trading Price
 * Trading Volume Distribution
 * Market Performance Comparison
 
-### Historical Analysis
+### Historical Trend Analysis
 
 * Cryptocurrency Price Trends
 * Market Capitalization Trends
